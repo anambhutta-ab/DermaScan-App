@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "970969973305",
+    "project_id": "derma-scan-app",
+    "storage_bucket": "derma-scan-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970969973305:android:51f8046313a6809138c3e8",
+        "android_client_info": {
+          "package_name": "com.example.derma_scan_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970969973305-k68lle2c7ogfgneo210vi67ku0gq9ivk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0K_4u4uziY5jkMCAq-CP362yvWYcRcPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970969973305-k68lle2c7ogfgneo210vi67ku0gq9ivk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "970969973305-kau2ge1am1q09cu8jdg05kpolotj44qd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dermaScanApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
